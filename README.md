@@ -12,7 +12,7 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmpmen&theme=dark-smoky&hide_border=true" alt="jmpmen" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmpmen" alt="jmpmen" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
