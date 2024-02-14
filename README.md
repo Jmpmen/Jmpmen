@@ -7,16 +7,16 @@
         <img align="center"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
             alt="jmpmen_"
-            height="48"
-            width="48"
+            height="40"
+            width="40"
         />
     </a>
-    <a href="https://linkedin.com/in/jamesmichaelmendoza" target="_blank">
+    <a href="https://linkedin.com/in/jmpmen" target="_blank">
         <img align="center"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
             alt="jamesmichaelmendoza" 
-            height="48" 
-            width="48" 
+            height="40" 
+            width="40" 
         />
     </a>
 </p>
